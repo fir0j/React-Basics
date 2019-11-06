@@ -33,6 +33,7 @@ class SocialNetwork extends Component {
 	}
 
 	//when you use this arrow syntax for defining function, you don't have to bind it inside constructor
+	//this keyword inside arrow function always refer to windwo object/ context but this inside the regular function points to that function only
 	handleSubmit = (event) => {
 		event.preventDefault();
 		this.getUsers();

@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/github.io/react-school/static/js/main.791f3b4f.chunk.js",
-    "main.js.map": "/github.io/react-school/static/js/main.791f3b4f.chunk.js.map",
-    "runtime-main.js": "/github.io/react-school/static/js/runtime-main.6ffbf7f1.js",
-    "runtime-main.js.map": "/github.io/react-school/static/js/runtime-main.6ffbf7f1.js.map",
-    "static/js/2.3d218dda.chunk.js": "/github.io/react-school/static/js/2.3d218dda.chunk.js",
-    "static/js/2.3d218dda.chunk.js.map": "/github.io/react-school/static/js/2.3d218dda.chunk.js.map",
-    "index.html": "/github.io/react-school/index.html",
-    "precache-manifest.6fd90f3a915f4958a3aaf3cfc5c172f2.js": "/github.io/react-school/precache-manifest.6fd90f3a915f4958a3aaf3cfc5c172f2.js",
-    "service-worker.js": "/github.io/react-school/service-worker.js",
-    "static/js/2.3d218dda.chunk.js.LICENSE": "/github.io/react-school/static/js/2.3d218dda.chunk.js.LICENSE"
+    "main.js": "/react-school/static/js/main.791f3b4f.chunk.js",
+    "main.js.map": "/react-school/static/js/main.791f3b4f.chunk.js.map",
+    "runtime-main.js": "/react-school/static/js/runtime-main.af8db1a2.js",
+    "runtime-main.js.map": "/react-school/static/js/runtime-main.af8db1a2.js.map",
+    "static/js/2.3d218dda.chunk.js": "/react-school/static/js/2.3d218dda.chunk.js",
+    "static/js/2.3d218dda.chunk.js.map": "/react-school/static/js/2.3d218dda.chunk.js.map",
+    "index.html": "/react-school/index.html",
+    "precache-manifest.f700c2aeb9e7d7047eef8e33d380b982.js": "/react-school/precache-manifest.f700c2aeb9e7d7047eef8e33d380b982.js",
+    "service-worker.js": "/react-school/service-worker.js",
+    "static/js/2.3d218dda.chunk.js.LICENSE": "/react-school/static/js/2.3d218dda.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ffbf7f1.js",
+    "static/js/runtime-main.af8db1a2.js",
     "static/js/2.3d218dda.chunk.js",
     "static/js/main.791f3b4f.chunk.js"
   ]

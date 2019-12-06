@@ -1,8 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import SocialNetwork from './script';
-import * as serviceWorker from './serviceWorker';
+import Clock from './Clock';
 
-ReactDOM.render(<SocialNetwork />, document.getElementById('root'));
-
-serviceWorker.unregister();
+ReactDOM.render(<Clock />, document.getElementById('root'));

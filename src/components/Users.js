@@ -1,5 +1,6 @@
 import React from 'react';
 import { Loading } from './Loading';
+// Note: In case of stateless or functional component, only use props.receiveProps, 'this' keyword is not used while receiving.
 export const Users = (props) => {
 	return (
 		<div>
